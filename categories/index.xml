@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Code Koala</title>
+    <link>http://codekoala.net/categories/</link>
+    <description>Recent content in Categories on Code Koala</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://codekoala.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>http://codekoala.net/categories/git/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Os</title>
+      <link>http://codekoala.net/categories/os/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://codekoala.net/categories/linux/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>http://codekoala.net/categories/database/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://codekoala.net/categories/software/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://codekoala.net/categories/javascript/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reactjs</title>
+      <link>http://codekoala.net/categories/reactjs/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://codekoala.net/categories/reactjs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
