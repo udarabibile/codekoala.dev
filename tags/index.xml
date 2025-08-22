@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Code Koala</title>
-    <link>http://codekoala.net/tags/</link>
+    <link>https://udarabibile.github.io/codekoala.dev/tags/</link>
     <description>Recent content in Tags on Code Koala</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://codekoala.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://udarabibile.github.io/codekoala.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chmod</title>
-      <link>http://codekoala.net/tags/chmod/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/chmod/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/chmod/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/chmod/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>http://codekoala.net/tags/git/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/git/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/git/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Chown</title>
-      <link>http://codekoala.net/tags/chown/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/chown/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/chown/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/chown/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>http://codekoala.net/tags/sql/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/sql/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/sql/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://codekoala.net/tags/syntax/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/syntax/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/syntax/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactjs</title>
-      <link>http://codekoala.net/tags/reactjs/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/tags/reactjs/</link>
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/tags/reactjs/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/tags/reactjs/</guid>
       <description></description>
     </item>
   </channel>

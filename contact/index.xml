@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Code Koala</title>
-    <link>http://codekoala.net/contact/</link>
+    <link>https://udarabibile.github.io/codekoala.dev/contact/</link>
     <description>Recent content in Contact on Code Koala</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://codekoala.net/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://udarabibile.github.io/codekoala.dev/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://codekoala.net/contact/_index.fr/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/contact/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/contact/_index.fr/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/contact/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://codekoala.net/contact/_index.pl/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/contact/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/contact/_index.pl/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/contact/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://codekoala.net/contact/_index.br/</link>
+      <link>https://udarabibile.github.io/codekoala.dev/contact/_index.br/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://codekoala.net/contact/_index.br/</guid>
+      <guid>https://udarabibile.github.io/codekoala.dev/contact/_index.br/</guid>
       <description></description>
     </item>
   </channel>
